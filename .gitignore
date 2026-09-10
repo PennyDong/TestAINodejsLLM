@@ -1,3 +1,9 @@
 node_modules/
 dist/
 .env
+
+# SQLite 資料庫與暫存日誌檔
+*.db
+*.db-wal
+*.db-shm
+data/
